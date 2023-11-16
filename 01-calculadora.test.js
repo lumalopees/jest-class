@@ -1,0 +1,1 @@
+const { toAdd, toSubtract, toMultiply, toDivide } = require('./01-calculadora');
